@@ -11,7 +11,7 @@ const config = {
     navbarTitle: {
         text: "MAG"
       },
-    navLinks: [{ href: "/index", name: "Accueil" },{ href: "/docs", name: "Documentations" },{ href: "/link", name: "Liens" }],
+    navLinks: [{ href: "/index", name: "Accueil" },{ href: "/docs", name: "Documentations" },{ href: "/link", name: "Liens" },{ href: "https://status.magcloud.eu", name: "Status"}],
   };
 
 
