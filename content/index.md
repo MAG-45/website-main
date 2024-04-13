@@ -38,9 +38,9 @@ Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances
 - GPU : Intel UHD Graphics
 
 **VPS 1 ( Host by AlexK )** :
-- CPU : 8Core
-- RAM : 16Go
-- Stockage : 512Go SSD – 800Go HDD
+- CPU : 4Core
+- RAM : 4Go
+- Stockage : 512Go SSD
 
 ## En ce moment ? Que fais-tu ? 
 
