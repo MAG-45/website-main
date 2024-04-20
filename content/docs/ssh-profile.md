@@ -29,7 +29,7 @@ nano ~/.ssh/config
 
 ### Sous Windows
 
-Suffit d'utiliser le **notepad** qu'on a ouvert.
+Suffit d'utiliser le **Notepad** qu'on a ouvert.
 
 ### Template
 
