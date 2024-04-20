@@ -4,7 +4,7 @@
  */
 const config = {
     title: "Portfolio MAG",
-    description: "Mon Portfolio et mes petites docs",
+    description: "Mon Portfolio",
     author: "MAG",
     domain: "https://magcloud.fr/",
     favicon: "/images/logo.svg",
