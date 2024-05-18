@@ -1,5 +1,8 @@
 # Introduction
 
+> **Obsolète** : J'ai resortis mon fameux Dell pour y tester Arch Linux (05/2024), et bizzarement le driver a été compilée et refonctionne sur les Kernel >=6.0, je n'ai pas testé avec d'autre distrib, en attendant voici le lien AUR : [Liens AUR](https://aur.archlinux.org/packages/b43-firmware)
+
+
 J'écris ce petit doc après avoir galéré à remettre en marche mon ancien PC Portable qui possède une carte Wi-Fi Broadcom, qui nécessite le driver b43 (le nom varie selon la distribe, mais appelons le b43), donc en essayant d'installer Fedora 38 sur mon ancien pc portable, je remarque que le driver n'est pas installé, ayant l'habitude car ce driver est un non free et donc très peu souvent dans les repos de base des distributions Linux. Je lance une petite recherche Google pour trouver le bon driver sur les distributions basées sur Red Hat, j'installe le paquet et je redémarre sauf que pouf, rien ne marche ! Mais pourquoi ? Les driver pour B43 n'est pas compatible avec les kernels Linux 6 et supérieure !
 
 # Vérification du kernel
