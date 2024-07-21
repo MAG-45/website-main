@@ -8,7 +8,7 @@ Bonjour ou *bonsoir*, et bienvenue sur mon **portfolio** :
 
 Je vais commencer par me présenter. Donc moi, c’est ***MAG***, un jeune *passionné* d’informatique dans de nombreux domaines, tels que le **SysAdmin** ou le **Scripting**. 
 
-Je suis encore lycéen, chaque jours j'essaie de m'orienter dans ce qui me plait, en plus d'étoffer et de prendre de l'avance sur mes compétences, qui me seront requises maintenant avec mes divers projets personelles comme pour mes futurs emplois. 
+Jeune lycéen, chaque jours j'essaie de m'orienter dans ce qui me plait, en plus d'étoffer et de prendre de l'avance sur mes compétences, qui me seront requises maintenant avec mes divers projets personelles comme pour mes futurs emplois. 
 
 Je passe les 3/4 de mon temps à *bidouiller* mes services, qui sont hébergés sur mon *« infrastructure »* (1 VPS). L’autre 1/4, je le passe à améliorer mes **compétences** diverses et variées, tout en essayant de réaliser quelques petits projets : *développement, support technique*, *scripting*, *réseau*  etc...
 
