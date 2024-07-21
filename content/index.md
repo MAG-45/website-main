@@ -43,6 +43,7 @@ Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances
 - RAM : 20Go
 - Stockage : 512Go HDD RAID 1
 - Liens : [https://status.magcloud.eu](Pages de Status)
+
 ## En ce moment ? Que fais-tu ? 
 
 Pour l’instant, pas de grand projet public. J’essaie de maintenir mes VPS, mon bot Telegram, etc., tout en apprenant le Java via l’API Bukkit/Spigot de Minecraft. En recherche de projet : **OUI**, autour du SysAdmin / Réseau ( ponctuelle comme régulier ), contactez moi via Discord ou Mail 
