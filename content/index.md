@@ -6,7 +6,8 @@
 
 Bonjour ou *bonsoir*, et bienvenue sur mon **portfolio** :
 
-Je vais commencer par me présenter. Donc moi, c’est ***MAG***, un jeune *passionné* d’informatique dans de nombreux domaines, tels que le **SysAdmin** ou le **Scripting**. Lycéen, j'essaie chaque jours de m'orienter dans ce qui me plait quand j'ai dit plus haut, en plus d'étoffer et prendre de l'avance sur mes compétences qui me seront requises que ça sois maintenant avec mes divers projets personelles ou plus tard pour mes futurs emploies . Je passe les 3/4 de mon temps à *bidouiller* mes services, qui sont hébergés sur mon *« infrastructure »* (1 VPS). L’autre 1/4, je le passe à améliorer mes **compétences** diverses et variées, tout en essayant de réaliser quelques petits projets : *développement, support technique*, *scripting*, *réseau*  etc...
+Je vais commencer par me présenter. Donc moi, c’est ***MAG***, un jeune *passionné* d’informatique dans de nombreux domaines, tels que le **SysAdmin** ou le **Scripting**. Lycéen, j'essaie chaque jours de m'orienter dans ce qui me plait comme j'ai dit plus haut, en plus d'étoffer et de prendre de l'avance sur mes compétences, qui me seront requises que ça sois maintenant avec mes divers projets personelles ou plus tard pour mes futurs emploies. 
+Je passe les 3/4 de mon temps à *bidouiller* mes services, qui sont hébergés sur mon *« infrastructure »* (1 VPS). L’autre 1/4, je le passe à améliorer mes **compétences** diverses et variées, tout en essayant de réaliser quelques petits projets : *développement, support technique*, *scripting*, *réseau*  etc...
 
 Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances assez large afin d’être polyvalent pour tout type de tâche.
 
@@ -41,7 +42,7 @@ Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances
 - CPU : 12Core
 - RAM : 20Go
 - Stockage : 512Go HDD RAID 1
-- Liens : (https://status.magcloud.eu)[Pages de Status]
+- Liens : [https://status.magcloud.eu](Pages de Status)
 ## En ce moment ? Que fais-tu ? 
 
 Pour l’instant, pas de grand projet public. J’essaie de maintenir mes VPS, mon bot Telegram, etc., tout en apprenant le Java via l’API Bukkit/Spigot de Minecraft. En recherche de projet : **OUI**, autour du SysAdmin / Réseau ( ponctuelle comme régulier ), contactez moi via Discord ou Mail 
