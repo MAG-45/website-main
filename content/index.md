@@ -20,10 +20,10 @@ Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances
 - **Support Technique** : Junior/Intermédiaire
 - **Réseau** : Junior
 - **Virtualisation** : Junior
-- **Scripting** (Bash) : Junior 
+- **Scripting** (Bash/Python) : Junior
+- **IaC (Ansible)** : Junior 
 - **Développement JavaScript** : Junior
 - **Développement Python** : Junior
-- **Développement Java** (Précisément développement Bukkit/Spigot Minecraft) : Junior
 
 ## Quels outils ? 
 
