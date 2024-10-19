@@ -50,7 +50,7 @@ Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances
 
 Pour l’instant, pas de grand projet public. Je maintiens mon infrastructure actuelle, tout en apprenant de nouvelle compétences, comme **Kubernetes**, **Infra Cloud**, ou en améliorant certaines, **Python**, **Scripting**, **Réseau et Systèmes**...
 
-En recherche de projet : **OUI**, autour du SysAdmin / Réseau ( ponctuelle comme régulier ), contactez moi via Discord ou Mail 
+En recherche de projet : **NON**, actuellement SysAdmin chez Stagey, merci de respecter mon choix mais je reste toujours joinable si vous voulez discuter avec moi. 
 
 ## Où me trouver ?
 
