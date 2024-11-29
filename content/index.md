@@ -56,12 +56,12 @@ En recherche de projet : **NON**, actuellement SysAdmin chez Stagey, merci de re
 
 Vous pouvez me trouver sur mes différents *réseaux sociaux* :
 - **Discord** : .mag.
-- **Twitter** : @mag_3945
+- **Twitter** : @mag__45
 
 Mais aussi sur d'autre platformes : 
 
-- **Github** : @mag3845
-- **Gitlab** : @MAG3945 
+- **Github** : @mag-45
+- **Gitlab** : @MAG45
 
 Sachez que vous pouvez me contacter par **mail** ici : [mag@magcloud.eu](mailto:mag@magcloud.eu)
 
