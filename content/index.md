@@ -4,7 +4,7 @@ Jeune passionné par l'informatique, et par de vastes domaines comme le réseau/
 
 ## Technologies et outils
 
-<div align="center">
+<div>
   <img height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" />
   <img height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" />
   <img height='50px' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" />
