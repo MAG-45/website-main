@@ -1,68 +1,43 @@
-# Bienvenue sur mon Porfolio !
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<h1 align="center">Bienvenue sur mon portefolio</h1>
+<p align="center">Jeune passionnée par l'informatique, et par de vastes domaines comme le réseau/système ou encore IaC. Assez touche a tout, je suis ouvert a toutes nouvelles technologies ou encore secteurs de l'informatique. Assez débrouillard j'aime toujours une solution même si celle-ci sort de mon champ de compétences ! Ouvert a la discussion, je vous invite a me contacter pour la moindre question </p>
 
-> Tout est possible il suffit d’y croire - MAG 
+## Technologies et outils
 
-## Mais qui suis-je ?
+<div align="center">
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />
+  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
+  <img height='50px' src="https://img.icons8.com/fluent/512/proxmox.png" />
+</div>
 
-Bonjour ou *bonsoir*, et bienvenue sur mon **portfolio** :
+## Projets
 
-Je vais commencer par me présenter. Donc moi, c’est ***MAG***, un jeune *passionné* d’informatique dans de nombreux domaines, tels que le **SysAdmin** ou le **Scripting**. 
+- **[Stagey](https://stagey.fr) - Techniciens Infrastructure IT**
+  - Mise en place d'une pipeline de CI/CD
+  - Mise en place de différentes politiques d'optimisations et de sécurité
+  - Mise en place d'un nouveau système de backup
+  - Surveillance des applications et de leur consommation
+  - Mise en place d'outils pour les développeurs
 
-Jeune lycéen, chaque jours j'essaie de m'orienter dans ce qui me plait, en plus d'étoffer et de prendre de l'avance sur mes compétences, qui me seront requises maintenant avec mes divers projets personelles comme pour mes futurs emplois. 
+- **[MAGCloud](https://status.magcloud.eu) - Infrastructure Personnelle**
+  - Système de mise à jour automatique des applications
+  - Mise en place de systèmes de sécurité
+  - Plusieurs services fonctionnant jour et nuit
+  - Système de backups
 
-Je passe les 3/4 de mon temps à *bidouiller* mes services, qui sont hébergés sur mon *« infrastructure »* (1 VPS). L’autre 1/4, je le passe à améliorer mes **compétences** diverses et variées, tout en essayant de réaliser quelques petits projets : *développement, support technique*, *scripting*, *réseau*  etc...
+## Mentions spéciales
 
-Je suis assez touche-à-tout. J’essaie d’avoir un éventail de connaissances assez large afin d’être polyvalent pour tout type de tâche.
+Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOps. Je cherche chaque jour à m'améliorer davantage dans ce domaine. Je suis ouvert à toute critique sur mes repo !
 
-## Compétences ? Mais lesquels ?
+## Réseaux
 
-- **Debian** (Linux) : Junior/Intermédiaire
-- **Support Technique** : Junior/Intermédiaire
-- **Réseau** : Junior
-- **Virtualisation** : Junior
-- **Scripting** (Bash/Python) : Junior
-- **IaC (Ansible)** : Junior 
-- **Développement JavaScript** : Junior
-- **Développement Python** : Junior
-
-## Quels outils ? 
-
-- **Proxmox (KVM/LXC)** : Virtualisation
-- **Conteneurisation**  : Docker
-- **Visual Studio Code** : IDE Javascript/Python
-- *Mon meilleur ami le terminal Linux et VIM*
-
-## Mais sur quel matériel travailles-tu ?
-
-**PC Principal ( HP Probook 440 G9 )** :
-- CPU : Intel Pentium G8505
-- RAM : 1×8 DDR4 SO-DIMM 3200Mhz
-- Stockage : 256Go SSD NVMe PCie 4.0
-- GPU : Intel UHD Graphics
-
-**VPS 1 ( Host by AlexK )** :
-- CPU : 12Core
-- RAM : 20Go
-- Stockage : 512Go HDD RAID 1
-- Liens :  [Pages de Status](https://status.magcloud.eu)
-
-## En ce moment ? Que fais-tu ? 
-
-Pour l’instant, pas de grand projet public. Je maintiens mon infrastructure actuelle, tout en apprenant de nouvelle compétences, comme **Kubernetes**, **Infra Cloud**, ou en améliorant certaines, **Python**, **Scripting**, **Réseau et Systèmes**...
-
-En recherche de projet : **NON**, actuellement SysAdmin chez Stagey, merci de respecter mon choix mais je reste toujours joinable si vous voulez discuter avec moi. 
-
-## Où me trouver ?
-
-Vous pouvez me trouver sur mes différents *réseaux sociaux* :
-- **Discord** : .mag.
-- **Twitter** : @mag__45
-
-Mais aussi sur d'autre platformes : 
-
-- **Github** : @mag-45
-- **Gitlab** : @MAG45
-
-Sachez que vous pouvez me contacter par **mail** ici : [mag@magcloud.eu](mailto:mag@magcloud.eu)
-
-> PS : Sachez que je **m'autoqualifie** pour mes compétences, par rapport a ce que je peux voir et qualifie d'intermédiaire, débutant, en cours acquisition ect..., ne le prenez **pas** comme des compétences **validée** par un *tiers*.
+- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" /> [Gitlab](https://gitlab.com/MAG45)
+- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /> [Twitter](https://x.com/mag__45)
+- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> [Github](https://github.com/MAG-45)
