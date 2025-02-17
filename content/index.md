@@ -1,19 +1,23 @@
+```html
+import Image from 'next/image';
+```
+
 # Bienvenue sur mon portfolio
 
 Jeune passionné par l'informatique, avec un intérêt particulier pour les domaines du réseau/système et de l'IaC. Polyvalent et curieux, j'aime explorer de nouvelles technologies et secteurs de l'informatique. Débrouillard, je trouve toujours une solution, même si elle sort de mon champ de compétences. Ouvert à la discussion, n'hésitez pas à me contacter pour toute question.
 
 ## Technologies et outils
 
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg){height=50px width=50px}  
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg){height=50px width=50px}  
-![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg){height=50px width=50px}  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg){height=50px width=50px}  
-![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg){height=50px width=50px}  
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg){height=50px width=50px}  
-![Cloudflare](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-plain.svg){height=50px width=50px}  
-![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg){height=50px width=50px}  
-![Traefik](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg){height=50px width=50px}  
-![Proxmox](https://img.icons8.com/fluent/512/proxmox.png){height: 50px width: 50px}  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" alt="Ansible" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="Python" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" alt="Bash" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-plain.svg" alt="Cloudflare" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" alt="Debian" width={50} height={50} />  
+<Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" alt="Traefik" width={50} height={50} />  
+<Image src="https://img.icons8.com/fluent/512/proxmox.png" alt="Proxmox" width={50} height={50} />  
 
 ## Projets
 
@@ -36,6 +40,6 @@ Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOp
 
 ## Réseaux
 
-- ![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg){height=20px width=20px} [GitLab](https://gitlab.com/MAG45)
-- ![Twitter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg){height=20px width=20px} [Twitter](https://x.com/mag__45)
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg){height=20px width=20px} [GitHub](https://github.com/MAG-45)
+- <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" alt="GitLab" width={20} height={20} /> [GitLab](https://gitlab.com/MAG45)
+- <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter" width={20} height={20} /> [Twitter](https://x.com/mag__45)
+- <Image src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width={20} height={20} /> [GitHub](https://github.com/MAG-45)
