@@ -5,16 +5,16 @@
 ## Technologies et outils
 
 <div align="center">
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-plain.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />
-  <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
-  <img height='50px' src="https://img.icons8.com/fluent/512/proxmox.png" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-plain.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" />
+  <img height='50px' width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/traefikproxy/traefikproxy-original.svg" />
+  <img height='50px' width="50px" src="https://img.icons8.com/fluent/512/proxmox.png" />
 </div>
 
 ## Projets
@@ -38,6 +38,6 @@ Jeune lycéen particulièrement intéressé par le monde du SysAdmin et du DevOp
 
 ## Réseaux
 
-- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" /> [Gitlab](https://gitlab.com/MAG45)
-- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /> [Twitter](https://x.com/mag__45)
-- <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> [Github](https://github.com/MAG-45)
+- <img height='20px' width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain.svg" /> [Gitlab](https://gitlab.com/MAG45)
+- <img height='20px' width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" /> [Twitter](https://x.com/mag__45)
+- <img height='20px' width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/> [Github](https://github.com/MAG-45)
